@@ -10,7 +10,7 @@ _A self-designed lecture on Tailwind CSS delivered to Code Platoon students._
 
 Two self-produced resources are associated with the Tailwind CSS lecture:
 - [Full lecture recording](https://www.youtube.com/watch?v=sE_EaXoxa9g)
-- [Written lecture summary, agenda, and notes]()
+- [Written lecture summary, agenda, and notes](tailwind_lecture_notes.md)
 
 ## Context
 
