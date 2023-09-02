@@ -18,4 +18,4 @@ This repository houses the resources for a lecture on Tailwind CSS that I delive
 
 The Tailwind CSS lecture was written entirely by myself with the reference of [Tailwind's official documentation](https://tailwindcss.com/docs). The intention of the lecture was to supplement previous design-related lectures that had focused moreso on component libraries for front-end design. The lecture served to further prepare students for designing professionally-styled websites as they began developing their capstone personal projects at the end of the then-active bootcamp.
 
-The lecture was delivered live by myself over Zoom to an audience of approximately 38 Code Platoon students. Reception to the lecture was positive, with approximately 25% students opting to incorporate Tailwind CSS into their personal projects.
+The lecture was delivered live by myself over Zoom to an audience of approximately 38 Code Platoon students. Reception to the lecture was positive, with approximately 25% of students opting to incorporate Tailwind CSS into their personal projects.
